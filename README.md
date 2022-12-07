@@ -2,12 +2,23 @@
 
 <div align="center">
 
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
 
   <h3><b>Microverse Portfolio Page</b></h3>
 
 </div>
+
+<!-- Build with -->
+
+## Built With
+
+- HTML5, CSS3
+- No frameworks!
+
+<!-- Setup -->
+
+### Setup
+
+Clone this repository to your desired folder:
 
 <!-- TABLE OF CONTENTS -->
 
