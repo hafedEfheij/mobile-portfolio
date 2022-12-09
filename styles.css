@@ -59,16 +59,14 @@ header {
     padding-left: 10%;
     padding-right: 10%;
   }
-
   #menu-bars {
     display: none;
   }
-
   #menu {
+    display: block;
     list-style: none;
     display: flex;
   }
-
   #menu a {
     text-decoration: none;
     padding: 12px;
@@ -164,7 +162,6 @@ header {
     justify-content: center;
     align-items: center;
   }
-
   #headline {
     width: 65vw;
   }
