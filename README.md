@@ -1,13 +1,8 @@
-
-
 <a name="readme-top"></a>
 
 <div align="center">
 
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
-
-  <h3><b>Microverse Project Portfolio Page</b></h3>
+  <h1><b>Microverse Project Portfolio Page</b></h1>
 
 </div>
 
@@ -50,7 +45,7 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **Mobile friendly page**
+- **Responsive pages**
 - **Contact form**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -117,6 +112,29 @@ n/a
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+
+<!-- AUTHORS -->
+
+## 👥 Author <a name="authors"></a>
+
+👤 **Hafed**
+
+- GitHub: [@Hafed](https://github.com/hafedEfheij)
+- LinkedIn: [Hafed](https://www.linkedin.com/in/hafedefhej/)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LICENSE -->
+
+## 👥 Collaborator <a name="collaborators"></a>
+
+👤 **Nelson**
+
+- GitHub: [@NelsonAraujo93](https://github.com/NelsonAraujo93)
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <!-- CONTRIBUTING -->
 
 ## 🤝 Contributing <a name="contributing"></a>
@@ -139,7 +157,7 @@ Please star this project if you like this project.
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank Microverse and it's community of Micronauts for the opportunity to collobarate, help, support, and valuable feedback through code reviews and pair programming.
+Thanks to microverse for giving me a path to follow in this learning journey. Thanks to my mates who walk by me in this journey and share they experiences an knowledge with me, you make this experience more valuable!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -147,9 +165,6 @@ I would like to thank Microverse and it's community of Micronauts for the opport
 
 ## ❓ FAQ <a name="faq"></a>
 
-- **Can I re-use your code?**
-
-  - Sure, no problem!
 
 - **How can I see the project?**
 
@@ -161,25 +176,6 @@ I would like to thank Microverse and it's community of Micronauts for the opport
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./MIT.md) licensed.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- AUTHORS -->
-
-## 👥 Author <a name="authors"></a>
-
-👤 **Hafed**
-
-- GitHub: [@Hafed](https://github.com/hafedEfheij)
-- LinkedIn: [Hafed](https://www.linkedin.com/in/hafedefhej/)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LICENSE -->
-
-## 📝 License <a name="license"></a>
-
-This project is [MIT](./MIT.md) licensed.
+This project is [MIT](./MIT.md) licensed
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
