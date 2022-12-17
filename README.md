@@ -79,7 +79,7 @@ Example commands:
 
 ```sh
   cd my-folder
-  git clone git@github.com:dennis-every/portfolio.git
+  git clone git@github.com:hafedEfheij/mobile-portfolio.git
 ```
 
 ### Install
@@ -119,8 +119,8 @@ To run tests, run the following command:
 
 👤 **Hafed Efheij**
 
-- GitHub: [@dennis-every](https://github.com/hafedefheij)
-- LinkedIn: [dennis-every](https://linkedin.com/in/hafedefheij)
+- GitHub: [@hafed](https://github.com/hafedefheij)
+- LinkedIn: [Hafed](https://linkedin.com/in/hafedefheij)
 
 ## 👥 Collaborator <a name="collaborators"></a>
 
