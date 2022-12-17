@@ -58,7 +58,7 @@ To get a local copy up and running, follow these steps.
 
 ```sh
   cd my-folder
-  git clone git@github.com:dennis-every/portfolio.git
+  git clone git@github.com:hafedEfheij/mobile-portfolio.git
 ```
 
 ### Prerequisites
@@ -79,7 +79,7 @@ Example commands:
 
 ```sh
   cd my-folder
-  git clone git@github.com:dennis-every/portfolio.git
+  git clone git@github.com:hafedEfheij/mobile-portfolio.git
 ```
 
 ### Install
@@ -108,23 +108,19 @@ To run tests, run the following command:
 
 ### Deployment
 
-n/a
+- Deployed with github pages at:
+- https://hafedefheij.github.io/mobile-portfolio/
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 <!-- AUTHORS -->
 
 ## 👥 Author <a name="authors"></a>
 
-👤 **Hafed**
+👤 **Hafed Efheij**
 
-- GitHub: [@Hafed](https://github.com/hafedEfheij)
-- LinkedIn: [Hafed](https://www.linkedin.com/in/hafedefhej/)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LICENSE -->
+- GitHub: [@hafed](https://github.com/hafedefheij)
+- LinkedIn: [Hafed](https://linkedin.com/in/hafedefheij)
 
 ## 👥 Collaborator <a name="collaborators"></a>
 
@@ -158,13 +154,15 @@ Please star this project if you like this project.
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 Thanks to microverse for giving me a path to follow in this learning journey. Thanks to my mates who walk by me in this journey and share they experiences an knowledge with me, you make this experience more valuable!
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FAQ (optional) -->
 
 ## ❓ FAQ <a name="faq"></a>
 
+- **Can I re-use your code?**
+
+  - Sure, no problem!
 
 - **How can I see the project?**
 
