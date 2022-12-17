@@ -58,7 +58,7 @@ To get a local copy up and running, follow these steps.
 
 ```sh
   cd my-folder
-  git clone git@github.com:dennis-every/portfolio.git
+  git clone git@github.com:hafedEfheij/mobile-portfolio.git
 ```
 
 ### Prerequisites
