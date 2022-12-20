@@ -40,6 +40,7 @@
 
 - HTML
 - CSS
+- JAVASCRIPT
 
 <!-- Features -->
 
