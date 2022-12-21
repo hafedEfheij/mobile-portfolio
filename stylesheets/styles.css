@@ -809,7 +809,7 @@ input {
     max-width: 60vw;
   }
 }
-
+/*APP.JS class*/
 #close-modal-btn > i {
   color: #67798e;
   font-size: 1.2rem;
