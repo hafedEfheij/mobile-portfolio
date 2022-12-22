@@ -27,59 +27,59 @@ mobileLinks.addEventListener('click', closeMenuHandler);
 const worksArray = [
   {
     id: 0,
-    title: 'Tonic',
-    experiences: ['Canopy', 'Back End Dev', '2015'],
+    title: "Tonic",
+    experiences: ["Canopy", "Back End Dev", "2015"],
     description:
       "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essent",
-    technologies: ['html', 'css', 'javascript', 'github', 'ruby', 'Bootstraps'],
-    urlMobile: '/images/work_1.jpg',
-    urlDesktop: '/images/work_1_lg.png',
-    urlModal: '/images/work_modal.png',
-    alt: 'work_tonic_daily_personalized_reads',
-    live: 'https://dennis-every.github.io/',
-    source: 'https://github.com/dennis-every/portfolio',
+    technologies: ["html", "css", "javascript", "github", "ruby", "Bootstraps"],
+    urlMobile: "/images/work_1.jpg",
+    urlDesktop: "/images/work_1_lg.png",
+    urlModal: "/images/work_modal.png",
+    alt: "work_tonic_daily_personalized_reads",
+    live: "https://hafedefheij.github.io",
+    source: "https://hafedefheij.github.io/mobile-portfolio/",
   },
   {
     id: 1,
-    title: 'Multi-Post Stories',
-    experiences: ['Canopy', 'Back End Dev', '2015'],
+    title: "Multi-Post Stories",
+    experiences: ["Canopy", "Back End Dev", "2015"],
     description:
       "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essent",
-    technologies: ['html', 'css', 'javascript', 'github', 'ruby', 'Bootstraps'],
-    urlMobile: 'images/work_2.jpg',
-    urlDesktop: 'images/work_2_lg.png',
-    urlModal: '/images/work_modal.png',
-    alt: 'work_multi-post_stories_daily_personalized_reads',
-    live: 'https://dennis-every.github.io/',
-    source: 'https://github.com/dennis-every/portfolio',
+    technologies: ["html", "css", "javascript", "github", "ruby", "Bootstraps"],
+    urlMobile: "images/work_2.jpg",
+    urlDesktop: "images/work_2_lg.png",
+    urlModal: "/images/work_modal.png",
+    alt: "work_multi-post_stories_daily_personalized_reads",
+    live: "https://hafedefheij.github.io",
+    source: "https://hafedefheij.github.io/mobile-portfolio/",
   },
   {
     id: 2,
-    title: 'Tonic',
-    experiences: ['Canopy', 'Back End Dev', '2015'],
+    title: "Tonic",
+    experiences: ["Canopy", "Back End Dev", "2015"],
     description:
-      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essent",
-    technologies: ['html', 'css', 'javascript', 'github', 'ruby', 'Bootstraps'],
-    urlMobile: 'images/work_3.jpg',
-    urlDesktop: 'images/work_3_lg.png',
-    urlModal: '/images/work_modal.png',
-    alt: 'work_tonic_daily_personalized_reads',
-    live: 'https://dennis-every.github.io/',
-    source: 'https://github.com/dennis-every/portfolio',
+      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+    technologies: ["html", "css", "javascript", "github", "ruby", "Bootstraps"],
+    urlMobile: "images/work_3.jpg",
+    urlDesktop: "images/work_3_lg.png",
+    urlModal: "/images/work_modal.png",
+    alt: "work_tonic_daily_personalized_reads",
+    live: "https://hafedefheij.github.io/",
+    source: "https://hafedefheij.github.io/mobile-portfolio/",
   },
   {
     id: 3,
-    title: 'Multi-Post Stories',
-    experiences: ['Canopy', 'Back End Dev', '2015'],
+    title: "Multi-Post Stories",
+    experiences: ["Canopy", "Back End Dev", "2015"],
     description:
       "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essent",
-    technologies: ['html', 'css', 'javascript', 'github', 'ruby', 'Bootstraps'],
-    urlMobile: 'images/work_4.jpg',
-    urlDesktop: 'images/work_4_lg.png',
-    urlModal: '/images/work_modal.png',
-    alt: 'work_multi-post_stories_daily_personalized_reads',
-    live: 'https://dennis-every.github.io/',
-    source: 'https://github.com/dennis-every/portfolio',
+    technologies: ["html", "css", "javascript", "github", "ruby", "Bootstraps"],
+    urlMobile: "images/work_4.jpg",
+    urlDesktop: "images/work_4_lg.png",
+    urlModal: "/images/work_modal.png",
+    alt: "work_multi-post_stories_daily_personalized_reads",
+    live: "https://hafedefheij.github.io/",
+    source: "https://hafedefheij.github.io/mobile-portfolio/",
   },
 ];
 
@@ -89,7 +89,7 @@ const worksLoadHandler = () => {
     const workCard = document.createElement('li');
     workCard.classList.add('work-card');
     workCard.innerHTML = `
-      <article class='work-card__article'>
+      <article  class='work-card__article'>
         <div class='work-card__header'>
           <picture>
             <source srcset=${work.urlDesktop} media='(min-width: 768px)' />

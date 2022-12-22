@@ -215,6 +215,8 @@ fieldset {
   padding: 16px;
 }
 
+/* add  */
+
 .work-card__article {
   padding: 0;
   margin: 0;
@@ -372,6 +374,10 @@ fieldset {
     justify-content: space-between;
     gap: 22px;
     width: 100%;
+  }
+
+  .work-card__article:nth-child(-n + 1) {
+    flex-direction: row-reverse;
   }
 
   .work-card__body {
