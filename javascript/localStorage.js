@@ -94,10 +94,3 @@ window.onload = () => {
 };
 
 //This it the button for resseting field in the form
-const btnReset = document.getElementById('btn-reset');
-
-btnReset.addEventListener('click', (event) => {
-  event.preventDefault();
-  contactForm.reset();
-  availableStorage.clear();
-});
